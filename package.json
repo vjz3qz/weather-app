@@ -11,5 +11,14 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vjz3qz/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vjz3qz/weather-app/issues"
+  },
+  "homepage": "https://github.com/vjz3qz/weather-app#readme"
 }
